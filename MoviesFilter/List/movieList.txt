@@ -1,0 +1,200 @@
+name:The Witch&genre:Horror,Mystery&rating:6.8&year:2015&month:January
+name:Black Mass&genre:Biography,Crime,Drama&rating:6.9&year:2015&month:September
+name:Love(II)&genre:Drama,Romance&rating:6.0&year:2015&month:May
+name:Goosebumps&genre:Adventure,Comedy,Family&rating:6.3&year:2015&month:October
+name:Sicario&genre:Action,Crime,Drama&rating:7.6&year:2015&month:October
+name:Fifty Shades Of Grey&genre:Drama,Romance,Thriller&rating:4.1&year:2015&month:February
+name:The Hateful Eight&genre:Crime,Drama,Mystery&rating:7.8&year:2015&month:December
+name:Mad Max-Rury Road&genre:Action,Adventure,Sci-Fi&rating:8.1&year:2015&month:May
+name:Cinderella(I)&genre:Drama,Family,Fantasy&rating:6.9&year:2015&month:March
+name:Avengers-Age of Ultron&genre:Action,adventure,Sci-Fi&rating:7.4&year:2015&month:May
+name:The invitation(I)&genre:Drama,Horror,Mystery&rating:6.7&year:2015&month:April
+name:Ant-Man&genre:Action,Adventure,Comedy&rating:7.3&year:2015&month:July
+name:The Revenant&genre:Action,Adventure,Biography&rating:8.0&year:2015&month:January
+name:Hotel Transylvania 2&genre:Animation,Comedy,Family&rating:6.7&year:2015&month:September
+name:Jurassic World&genre:Action,Adventure,Sci-Fi&rating:7.0&year:2015&month:June
+name:inside Out(I)&genre:Animation,Adventure,Comedy&rating:8.2&year:2015&month:June
+name:Knock Knock(I)&genre:Drama,Horror,Thriller&rating:4.9&year:2015&month:October
+name:Creed&genre:Drama,Sport&rating:7.6&year:2015&month:November
+name:The Martian&genre:Adventure,Drama,Sci-Fi&rating:8.0&year:2015&month:October
+name:Spectre(I)&genre:Action,Adventure,Thriller&rating:6.8&year:2015&month:November
+name:The Visit(I)&genre:Comedy,Horror,Mystery&rating:6.2&year:2015&month:September
+name:Room(I)&genre:Drama,Thriller&rating:8.2&year:2015&month:January
+name:Crimson Peak&genre:Drama,Fantasy,Horror&rating:6.5&year:2015&month:October
+name:Star Wars-The Force Awakens&genre:Action,Adventure,Fantasy&rating:8.0&year:2015&month:December
+name:The Age of Adaline&genre:Drama,Fantasy,Romance&rating:7.2&year:2015&month:April
+name:Spotlight(I)&genre:Crime,Drama,History&rating:8.1&year:2015&month:November
+name:13 Cameras&genre:Drama,Horror&rating:5.1&year:2015&month:April
+name:Tales of Halloween&genre:Comedy,Horror&rating:5.5&year:2015&month:October
+name:Terminator Genisys&genre:Action,Adventure,Sci-Fi&rating:6.5&year:2015&month:July
+name:The Big Short&genre:Biography,Comedy,Drama&rating:7.8&year:2015&month:December
+name:The Man from U.N.C.L.E&genre:Action,Adventure,Comedy&rating:7.3&year:2015&month:August
+name:Mission Impossible-Rogue Nation&genre:Action,Adventure,Thriller&rating:7.4&year:2015&month:July
+name:Furious 7&genre:Action,Crime,Thriller&rating:7.2&year:2015&month:April
+name:The Blackcoat's Daugther(I)&genre:Horror,Thriller&rating:5.9&year:2015&month:February
+name:Legend(I)&genre:Biography,Crime,Drama&rating:7.0&year:2015&month:November
+name:Bone Tomahawk&genre:Adventure,Drama,Horror&rating:7.1&year:2015&month:February
+name:Green Room&genre:Horror,Thriller&rating:7.0&year:2015&month:May
+name:The Lobster&genre:Comedy,Drama,Romance&rating:7.1&year:2015&month:October
+name:The Gift(VI)&genre:Drama,Mystery,Thriller&rating:7.1&year:2015&month:August
+name:The Intern (I)&genre:Comedy,Drama&rating:7.1&year:2015&month:September
+name:The Danish Gril&genre:Biograpy,Drama,History&rating:7.1&year:2015&month:January
+name:Carol&genre:Drama,Romance&rating:7.2&year:2015&month:January
+name:Scouts Guide to the Zombie Apocalypse&genre:Action,Comedy,Horror&rating:6.3&year:2015&month:October
+name:Victor Frankenstein&genre:Drama,Horror,Sci-Fi&rating:6.0&year:2015&month:November
+name:Jupiter Ascending&genre:Action,Adventure,Sci-Fi&rating:5.3&year:2015&month:February
+name:Daddy's Home&genre:Comedy&rating:6.1&year:2015&month:December
+name:The Ridiculous 6&genre:Comedy,Western&rating:4.8&year:2015&month:December
+name:The Final Girls&genre:Comedy,Horror&rating:6.6&year:2015&month:November
+name:Maze Runner-The Scorch Trials&genre:Action,Sci-Fi,Thriller&rating:6.3&year:2015&month:September
+name:San Andreas&genre:Action,Adventure,Drama&rating:6.1&year:2015&month:May
+name:Suicide Squad&genre:Action,Adventure,Fantasy&rating:6.1&year:2016&month:August
+name:Fantastic Beasts and Where to Find Them&genre:Adventure,Family,Fantasy&rating:7.4&year:2016&month:November
+name:Hush(I)&genre:Horror,Thriller&rating:6.6&year:2016&month:April
+name:The Conjuring 2&genre:Horror,Mystery,Thriller&rating:7.4&year:2016&month:June
+name:Split(IX)&genre:Horror,Thriller&rating:7.3&year:2016&month:January
+name:Terrifier&genre:Horror,Thriller&rating:5.6&year:2016&month:March
+name:Deadpool&genre:Action,Adventure,Comedy&rating:8.0&year:2016&month:February
+name:X-Men-Apocalypse&genre:Action,Adventure,Sci-Fi&rating:7.0&year:2016&month:May
+name:Sing&genre:Animation,Comedy,Family&rating:7.1&year:2016&month:December
+name:Don't Breathe&genre:Crime,Horror,Thriller&rating:7.1&year:2016&month:August
+name:Ghostbusters&genre:Action,Comedy,Fantasy&rating:5.3&year:2016&month:July
+name:Deepwater Horizon&genre:Action,Drama,History&rating:7.1&year:2016&month:September
+name:Arrival(II)&genre:Drama,Mystery,Sci-Fi&rating:7.9&year:2016&month:November
+name:Passengers(I)&genre:Drama,Romance,Sci-Fi&rating:7.0&year:2016&month:December
+name:Noctunal Animals&genre:Crime,Drama,Romance&rating:7.5&year:2016&month:December
+name:Batman v Superman-Dawn of Justice&genre:Action,Adventure,Fantasy&rating:6.5&year:2016&month:March
+name:La La Land(I)&genre:Comedy,Drama,Music&rating:8.1&year:2016&month:December
+name:Moana(I)&genre:Animation,Adventure,Comedy&rating:7.6&year:2016&month:November
+name:Me Before You&genre:Dram,Romance&rating:7.4&year:2016&month:June
+name:The Purge-Election Year&genre:Action,Horror,Sci-Fi&rating:6.0&year:2016&month:July
+name:Doctor Strange&genre:Action,Adventure,Fantasy&rating:7.5&year:2016&month:November
+name:Jack Reacher-Never Go Back&genre:Action,Adventure,Thriller&rating:6.1&year:2016&month:October
+name:Ouija-Origin of Evil&genre:Horror,Thriller&rating:6.1&year:2016&month:October
+name:Captain America-Civil War&genre:Action,Adventure,Sci-Fi&rating:7.8&year:2016&month:May
+name:Hacksaw Ridge&genre:Biography,Drama,History&rating:8.1&year:2016&month:November
+name:The Magnificent Seven&genre:Action,Adventure,Western&rating:6.9&year:2016&month:September
+name:Rogue one-A Star Wars Story&genre:Action,Adventure,Sci-Fi&rating:7.8&year:2016&month:December
+name:The Girl on the Train&genre:Crime,Drama,Mystery&rating:6.5&year:2016&month:October
+name:10 Cloverfield Lane&genre:Drama,Horror,Mystery&rating:7.2&year:2016&month:March
+name:The Boy&genre:Horror,Mystery,Thriller&rating:6.0&year:2016&month:January
+name:Moonlight(I)&genre:Horror,Mystery,Thriller&rating:6.0&year:2016&month:November
+name:The Huntsman-Winter's War&genre:Action,Adventure,Drama&rating:6.1&year:2016&month:April
+name:Zootopia&genre:Animation,Adventure,Comedy&rating:8.0&year:2016&month:March
+name:Manchester by the Sea&genre:Drama&rating:7.8&year:2016&month:December
+name:The Secret Life of Pets&genre:Animation,Adventure,Comedy&rating:6.5&year:2016&month:July
+name:Star Trek-Beyond&genre:Action,Adventure,Sci-Fi&rating:7.1&year:2016&month:July
+name:Train to Busan&genre:Action,Horror,Thriller&rating:7.5&year:2016&month:September
+name:Trolls&genre:Animation,Adventure,Comedy&rating:6.5&year:2016&month:November
+name:Inferno(I)&genre:Action,Adventure,Crime&rating:6.2&year:2016&month:October
+name:Pride and Prejudice and Zombies&genre:Action,Horror,Romance&rating:5.8&year:2016&month:February
+name:Lion&genre:Biography,Drama&rating:8.1&year:2016&month:January
+name:Your name&genre:Animation,Drama,Fantasy&rating:8.4&year:2016&month:April
+name:Captain Fantastic&genre:Comedy,Drama&rating:7.9&year:2016&month:July
+name:The Bad Batch&genre:Drama,Horror,Romance&rating:5.3&year:2016&month:June
+name:A Cure of Wellness&genre:Drama,Fantasy,Horror&rating:6.4&year:2016&month:February
+name:Miss Peregeine's Home for Peculiar Children&genre:Adventure,Drama,Fantasy&rating:6.7&year:2016&month:September
+name:Now You See Me 2&genre:Action,Adventure,Comedy&rating:6.5&year:2016&month:June
+name:The Legend of Tarzan&genre:Action,Adventure,Drama&rating:6.3&year:2016&month:July
+name:The invisible Guest&genre:Crime,Mystery,Thriller&rating:8.1&year:2016&month:January
+name:Lights Out(II)&genre:Horror&rating:6.3&year:2016&month:July
+name:Three Billboards Outside Ebbing,Missouri&genre:Comedy,Crime,Drama&rating:8.2&year:2017&month:December
+name:Good Time&genre:Crime,Drama,Thriller&rating:7.3&year:2017&month:August
+name:Okja&genre:Action,Adventure,Drama&rating:7.3&year:2017&month:June
+name:Mudbound&genre:Drama,War&rating:7.4&year:2017&month:November
+name:Coco(I)&genre:Animation,Adventure,Comedy&rating:8.4&year:2017&month:November
+name:Blade Runner 20449&genre:Drama,Mystery,Sci-Fi&rating:8.0&year:2017&month:October
+name:A Silent Voice&genre:Animation,Drama,Romance&rating:8.2&year:2017&month:April
+name:The Shape of Water&genre:Adventure,Drama,Fantasy&rating:7.4&year:2017&month:December
+name:Dunkirk&genre:Action,Drama,History&rating:7.9&year:2017&month:July
+name:Raw(II)&genre:Drama,Horror&rating:7.0&year:2017&month:March
+name:The Forida Project&genre:Drama&rating:7.6&year:2017&month:November
+name:It(I)&genre:Horror,Thriller&rating:7.4&year:2017&month:September
+name:Thor-Ragnarok&genre:Action,Adventure,Comedy&rating:7.9&year:2017&month:November
+name:T2 Trainspotting&genre:Drama&rating:7.2&year:2017&month:March
+name:Wind River&genre:Crime,Drama,Mystery&rating:7.7&year:2017&month:August
+name:Ingrid Goes West&genre:Comedy,Drama&rating:6.6&year:2017&month:August
+name:Call me by Your Name&genre:Drama,Romance&rating:8.0&year:2017&month:January
+name:Get Out(I)&genre:Horror,Mystery,Thriller&rating:7.7&year:2017&month:February
+name:Spider-Man-Homecoming&genre:Action,Adventure,Sci-Fi&rating:7.5&year:2017&month:July
+name:Logan&genre:Action,Drama,Sci-Fi&rating:8.1&year:2017&month:March
+name:Detroit&genre:Crime,Drama,History&rating:7.4&year:2017&month:August
+name:Wonder Woman&genre:Action,Adventure,Fantasy&rating:7.5&year:2017&month:June
+name:I Don't Feel at Home in This World Anymore&genre:Comedy,Crime,Drama&rating:6.9&year:2017&month:February
+name:I,Tonya&genre:Biogarphy,Comedy,Drama&rating:7.5&year:2017&month:January
+name:Hostiles&genre:Adventure,Drama,Western&rating:7.2&year:2017&month:January
+name:Gerald's Game&genre:Drama,Horror,Thriller&rating:6.6&year:2017&month:September
+name:Molly's Game&genre:Biography,Crime,Drama&rating:7.5&year:2017&month:January
+name:Personal Shopper&genre:Drama,Horror,Mystery&rating:6.2&year:2017&month:March
+name:Berlin Synndrone&genre:Drama,Horror,Mystery&rating:6.3&year:2017&month:May
+name:A Fantastic Woman&genre:Drama&rating:7.2&year:2017&month:February
+name:Mother!&genre:Animation,Drama,Family&rating:6.6&year:2017&month:September
+name:The Breadwinner&genre:Animation,Drama,Family&rating:7.7&year:2017&month:November
+name:Una&genre:Drama,Romance&rating:6.2&year:2017&month:September
+name:Star Wars-The Last Jedi&genre:Action,Adventure,Fantasy&rating:7.2&year:2017&month:December
+name:The Villaniness&genre:Action,Drama&rating:6.7&year:2017&month:June
+name:Gook&genre:Drama&rating:7.1&year:2017&month:January
+name:Loveless&genre:Drama&rating:7.7&year:2017&month:December
+name:The Killing of a Sacred Deer&genre:Drama,Mystery,Thriller&rating:7.0&year:2017&month:November
+name:The Meyerowitz Stories(New and Selected)&genre:Comedy,Drama&rating:7.0&year:2017&month:October
+name:It Comes at Night&genre:Horror,Mystery&rating:6.2&year:2017&month:June
+name:Patti Cake&genre:Drama,Music&rating:6.6&year:2017&month:August
+name:Better Watch Out(II)&genre:Comedy,Crime,Horror&rating:6.5&year:2017&month:October
+name:War for the Planet of the Apes&genre:Action,Adventure,Drama&rating:7.5&year:2017&month:July
+name:The Big Sick&genre:Comedy,Drama,Romance&rating:7.6&year:2017&month:July
+name:Split(IX)&genre:Horror,Thriller&rating:7.3&year:2017&month:January
+name:Brawl in Cell Block 99&genre:Crime,Drama&rating:7.1&year:2017&month:October
+name:Guardians of the Galaxy Vol.2&genre:Action,Adventure,Comedy&rating:7.7&year:2017&month:May
+name:The Lego Batman Movie&genre:Animation,Action,Comedy&rating:7.3&year:2017&month:February
+name:Atomic Blonde&genre:Action,Mystery,Thriller&rating:6.7&year:2017&month:July
+name:Sand Castle&genre:Drama,War&rating:6.3&year:2017&month:April
+name:Mission Impossible-Fallout&genre:Action,Adventure,Thriller&rating:8.0&year:2018&month:July
+name:Searching(III)&genre:Drama,Mystery,Thriller&rating:7.8&year:2018&month:August
+name:A Star Is Born&genre:Drama,Music,Romance&rating:8.3&year:2018&month:October
+name:Deadpool 2&genre:Action,Aventure,Comedy&rating:7.8&year:2018&month:May
+name:Avengers-Infinty War&genre:Action,Adventure,Fantasy&rating:8.6&year:2018&month:April
+name:You Were Never Really Here&genre:Crime,Drama,Mystery&rating:6.9&year:2018&month:April
+name:Blindspotting&genre:Comedy,Crime,Drama&rating:7.5&year:2018&month:July
+name:A Quiet Place&genre:Drama,Horror,Mystery&rating:7.6&year:2018&month:April
+name:A Prayer Before Dawn&genre:Action,Biography,Crime&rating:6.9&year:2018&month:August
+name:Eighth Grade&genre:Comedy,Drama&rating:7.6&year:2018&month:August
+name:Apostle&genre:Drama,Fantasy,Horror&rating:6.4&year:2018&month:October
+name:Hold the Dark&genre:Adventure,Drama,Horror&rating:5.7&year:2018&month:September
+name:BlackkKlansman&genre:Biography,Comedy,Crime&rating:7.7&year:2018&month:August
+name:Assassination Nation&genre:Comedy,Crime,Drama&rating:6.0&year:2018&month:September
+name:Incredebles 2&genre:Animation,Action,Adventure&rating:7.9&year:2018&month:June
+name:Revenge(II)&genre:Action,Horror,Thriller&rating:6.3&year:2018&month:May
+name:6 Balloons&genre:Drama&rating:5.8&year:2018&month:April
+name:Disobedience&genre:Drama,Romance&rating:6.6&year:2018&month:April
+name:Isle of Dogs&genre:Animation,Adventure,Comedy&rating:8.0&year:2018&month:April
+name:Black Panther&genre:Action,Adventure,Sci-Fi&rating:7.4&year:2018&month:February
+name:Mandy(I)&genre:Action,Horror,Thriller&rating:6.7&year:2018&month:September
+name:Ready Player One&genre:Action,Adventure,Sci-Fi&rating:7.6&year:2018&month:March
+name:The Tale&genre:Drama,Mystery,Thriller&rating:7.3&year:2018&month:July
+name:Game Night(I)&genre:Action,Comedy,Crime&rating:7.0&year:2018&month:February
+name:Jurassic World-Fallen Kingdom&genre:Action,Adventure,Sci-Fi&rating:6.3&year:2018&month:June
+name:A Simple Favor&genre:Comedy,Crime,Drama&rating:7.1&year:2018&month:September
+name:Unsane&genre:Horror,Mystery,Thriller&rating:6.4&year:2018&month:March
+name:Annihilation&genre:Adventure,Drama,Horror&rating:6.9&year:2018&month:February
+name:Hereditary&genre:Drama,Horror,Mystery&rating:7.3&year:2018&month:June
+name:Upgrade&genre:Action,Horror,Sci-Fi&rating:7.6&year:2018&month:June
+name:The Night Comes for Us&genre:Action,Thriller&rating:7.2&year:2018&month:October
+name:Venom&genre:Action,Sci-Fi&rating:7.0&year:2018&month:October
+name:Sierra Burgess Is a Loser&genre:Comedy,Drama,Romance&rating:6.1&year:2018&month:September
+name:To All the Boys I've Loved Before&genre:Drama,Romance&rating:7.4&year:2018&month:August
+name:Blockers&genre:Comedy&rating:6.2&year:2018&month:April
+name:The Land of Steady Habits&genre:Comedy,Drama&rating:6.2&year:2018&month:September
+name:Thoroughbreds&genre:Comedy,Crime,Drama&rating:6.8&year:2018&month:March
+name:Love,Simon&genre:Comedy,Drama,Romance&rating:7.7&year:2018&month:March
+name:The Equalizer 2&genre:Action,Crime,Thriller&rating:6.9&year:2018&month:July
+name:Incident in a Ghostland&genre:Drama,Horror,Mystery&rating:6.4&year:2018&month:June
+name:Den of Thieves&genre:Action,Crime,Drama&rating:7.0&year:2018&month:January
+name:Teen Titans Go!To the Movies&genre:Animation,Action,Comedy&rating:6.8&year:2018&month:July
+name:In Darkness&genre:Mystery,Thriller&rating:5.7&year:2018&month:May
+name:Rampage&genre:Action,Adventure,Sci-Fi&rating:6.2&year:2018&month:April
+name:Maze Runner-The Death Cure&genre:Action,Sci-Fi,Thriller&rating:6.3&year:2018&month:January
+name:12 Strong&genre:Action,Drama,History&rating:6.6&year:2018&month:January
+name:Early Man&genre:Animation,Adventure,Comedy&rating:6.1&year:2018&month:February
+name:Nostalgia(I)&genre:Drama&rating:5.3&year:2018&month:February
+name:Don't Worry,He Won't Get far on Foot&genre:Biography,Comedy,Drama&rating:6.9&year:2018&month:April
+name:Tully&genre:Comedy,Drama,Mystery&rating:7.0&year:2018&month:May

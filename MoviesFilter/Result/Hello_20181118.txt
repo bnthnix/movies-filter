@@ -1,0 +1,30 @@
+------------------------------
+ Movie Recommendation Service 
+------------------------------
+Sort result stored at 2018/11/18 10:21 PM
+
+Below is your sort process:
+1. Genre: Action
+2. Year: 2018
+
+Below is your final sort result:
+1. Mission Impossible-Fallout  |  Action,Adventure,Thriller  |  8.0  |  2018  |  July
+2. Deadpool 2  |  Action,Aventure,Comedy  |  7.8  |  2018  |  May
+3. Avengers-Infinty War  |  Action,Adventure,Fantasy  |  8.6  |  2018  |  April
+4. A Prayer Before Dawn  |  Action,Biography,Crime  |  6.9  |  2018  |  August
+5. Incredebles 2  |  Animation,Action,Adventure  |  7.9  |  2018  |  June
+6. Revenge(II)  |  Action,Horror,Thriller  |  6.3  |  2018  |  May
+7. Black Panther  |  Action,Adventure,Sci-Fi  |  7.4  |  2018  |  February
+8. Mandy(I)  |  Action,Horror,Thriller  |  6.7  |  2018  |  September
+9. Ready Player One  |  Action,Adventure,Sci-Fi  |  7.6  |  2018  |  March
+10. Game Night(I)  |  Action,Comedy,Crime  |  7.0  |  2018  |  February
+11. Jurassic World-Fallen Kingdom  |  Action,Adventure,Sci-Fi  |  6.3  |  2018  |  June
+12. Upgrade  |  Action,Horror,Sci-Fi  |  7.6  |  2018  |  June
+13. The Night Comes for Us  |  Action,Thriller  |  7.2  |  2018  |  October
+14. Venom  |  Action,Sci-Fi  |  7.0  |  2018  |  October
+15. The Equalizer 2  |  Action,Crime,Thriller  |  6.9  |  2018  |  July
+16. Den of Thieves  |  Action,Crime,Drama  |  7.0  |  2018  |  January
+17. Teen Titans Go!To the Movies  |  Animation,Action,Comedy  |  6.8  |  2018  |  July
+18. Rampage  |  Action,Adventure,Sci-Fi  |  6.2  |  2018  |  April
+19. Maze Runner-The Death Cure  |  Action,Sci-Fi,Thriller  |  6.3  |  2018  |  January
+20. 12 Strong  |  Action,Drama,History  |  6.6  |  2018  |  January
